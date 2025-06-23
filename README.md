@@ -1,4 +1,4 @@
-# Java Programming: A Comprehensive Bootcamp from Zero to Hero
+# Java Programming: 
 
 ## Topics covered in the course
 * Section 1: Let's Say Hello to Java
